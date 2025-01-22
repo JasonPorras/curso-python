@@ -24,14 +24,13 @@
 ## 📺¿Dónde puedo ver el curso? 
 Mira los cursos y participa en vivo en  
 [**twitch.tv/midudev**](https://twitch.tv/midudev)  
-[![Twitch Icon](https://upload.wikimedia.org/wikipedia/commons/9/99/Twitch_icon_logo_2019.svg)](https://twitch.tv/midudev)
 
 ## 📄Contenido
 
 | **Clases**                                                   | **Recursos**                                                                                       |
 |--------------------------------------------------------------|----------------------------------------------------------------------------------------------------|
-| **1. Hola Mundo, Tipos de Datos, Conversión de tipos y Variables** | [Código](https://github.com/midudev/curso-python/tree/main/01_basic) <br/> [Vídeo](https://www.twitch.tv/videos/2354087841) |
-| **2. Booleanos, Condicionales, Listas, Bucles y Funciones** | [Código](https://github.com/midudev/curso-python/tree/main/02_flow_control) <br/> [Vídeo](https://www.twitch.tv/videos/2360535344) |
+| **1. Hola Mundo, Tipos de Datos, Conversión de tipos y Variables** | [📂 Código](https://github.com/midudev/curso-python/tree/main/01_basic) | [▶️ Vídeo](https://www.twitch.tv/videos/2354087841) |
+| **2. Booleanos, Condicionales, Listas, Bucles y Funciones** | [📂 Código](https://github.com/midudev/curso-python/tree/main/02_flow_control) |  [▶️ Vídeo](https://www.twitch.tv/videos/2360535344) |
 
 ## 🔥 **Recursos adicionales**
 
